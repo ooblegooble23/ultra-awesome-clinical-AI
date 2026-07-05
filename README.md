@@ -71,7 +71,7 @@ If a resource isn't openly accessible, or is purely a closed commercial product 
 ### Medication & Interaction Tooling
 
 - [RxNav / RxNorm API](https://lhncbc.nlm.nih.gov/RxNav/) — NLM's web services for drug normalization, interaction lookup, and RxClass drug classes; the free foundation for medication tooling.
-- [RxSentinel](https://github.com/baeseongsu) — *(placeholder — replace with your own RxSentinel repo link once it's up)* A transparent, formulary-backed interaction screener and PTCB study engine.
+- [RxSentinel]((https://github.com/ooblegooble23/rx-sentinel)) — * A transparent, formulary-backed interaction screener and PTCB study engine.
 - [PharmPy](https://pharmpy.github.io/) — Library for pharmacometric model handling and workflows.
 
 ### Common Data Models & Interoperability
