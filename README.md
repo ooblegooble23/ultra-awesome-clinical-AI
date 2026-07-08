@@ -2,7 +2,7 @@
 
 > A curated list of datasets, tools, models, and reading for building AI at the intersection of **medication safety, surgical care, and underserved-population access.**
 
-Most awesome lists are broad. This one is deliberately narrow. It is maintained by a BA/MD student focused on interventional cardiology, cardiothoracic/vascular surgery, and bringing surgical and pharmacy care to rural and underserved communities — so the curation leans toward resources that are actually usable for building tools in those areas, not just publishing about them.
+Most awesome lists are broad. This one is deliberately narrow. Curation lies towards cards/surg based btw.
 
 If a resource isn't openly accessible, or is purely a closed commercial product with no research or developer entry point, it generally isn't here.
 
